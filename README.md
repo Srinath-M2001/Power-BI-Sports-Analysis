@@ -40,6 +40,8 @@ This project addresses multiple problem statements using Power BI and SQL to ana
    - Number of Olympic Games held in each season (Summer vs. Winter).
    - Distribution of games across decades.
    - Cities with the highest number of hosted games.
+     ![image](https://github.com/user-attachments/assets/65b50f7f-72a6-408f-9955-28a0e42c3105)
+
 2. **Sports and Events Analysis**:
    - Distribution of sports between Summer and Winter Olympics.
    - Sports with the highest number of events.
