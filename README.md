@@ -42,22 +42,35 @@ This project addresses multiple problem statements using Power BI and SQL to ana
    - Cities with the highest number of hosted games.
      ![image](https://github.com/user-attachments/assets/65b50f7f-72a6-408f-9955-28a0e42c3105)
 
-2. **Sports and Events Analysis**:
+2. **Sports Analysis**:
    - Distribution of sports between Summer and Winter Olympics.
    - Sports with the highest number of events.
    - Evolution of participation in each sport over time.
-   - Distribution of events by gender (Men, Women, Mixed).
-3. **Participant Analysis**:
+     ![image](https://github.com/user-attachments/assets/c2ba0b44-29a7-487f-a020-1aa11670c35d)
+3. **Event Analysis**:
+   - The distribution of events over the participants.
+   - Understanding the distribution of events by the gender(Men, Women, Mixed).
+   - The evolution of games by their events over the period of time.
+     ![image](https://github.com/user-attachments/assets/6b93d641-4c5d-4ed9-acc8-2222f13bebcd)
+
+5. **Participant Analysis**:
    - Distribution of participants by gender.
    - Age distribution of participants across games.
    - Countries with the highest number of participants.
-4. **Medal Analysis**:
+     ![image](https://github.com/user-attachments/assets/2b817d1f-e591-44b5-a347-39cdbb018244)
+
+6. **Medal Analysis**:
    - Medals awarded in each Olympic Games.
    - Countries with the highest number of gold medals.
    - Medal distribution across different sports and regions.
-5. **Regional Analysis**:
+     ![image](https://github.com/user-attachments/assets/4cecff13-0abf-4555-830e-621fecc6d8b8)
+
+     
+7. **Regional Analysis**:
    - Number of NOCs participating in each Olympic Games.
    - Regions with the highest number of participants.
+     ![image](https://github.com/user-attachments/assets/474278f1-da67-4e23-a86a-84391c7f797e)
+
 
 ### SQL-Based Exploratory Data Analysis (EDA)
 1. Trends in hosting Olympic Games.
